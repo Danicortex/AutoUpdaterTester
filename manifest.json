@@ -1,7 +1,7 @@
 {
     "version": "1.2.2.11",
     "downloadUrl": "https://github.com/Danicortex/AutoUpdaterTester/releases/download/Release/glad.zip",
-    "sha256": "sha256:fac57fd9cac69aa16131375c1cdbeb1a30e9a0b058c28fffdf4d94272062eee2"
+    "sha256": "sha256:fac57fd9cac69aa16131375c1cdbeb1a30e9a0b058c28fffdf4d94272062eee2",
     "mandatory": false,
     "releaseNotes": "Hi Test update"
 }
